@@ -4,7 +4,7 @@
   "description": "This is phonebook backend",
   "main": "phonebook_backend.js",
   "scripts": {
-    "start": "node phonebook_backend.js",
+    "start": "start phonebook_backend.js",
     "dev": "nodemon phonebook_backend.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
